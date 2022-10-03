@@ -237,7 +237,7 @@ body{
 }
 
 //  ANIMATION
- .sign-up-mode {
+ .container.sign-up-mode {
     &::before{
      transform: translate(100%,-50%);
      right: 52%;
@@ -273,5 +273,5 @@ transform: translateX(0px);
 
 .container.sign-up-mode form.sign-up-form{
     z-index: 2;
-    opacity: 0;
+    opacity: 1;
 }
