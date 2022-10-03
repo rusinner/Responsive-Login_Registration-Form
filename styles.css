@@ -261,5 +261,5 @@ body {
 
 .container.sign-up-mode form.sign-up-form {
   z-index: 2;
-  opacity: 1;
+  opacity: 0;
 }/*# sourceMappingURL=styles.css.map */
